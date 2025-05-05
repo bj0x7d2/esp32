@@ -9,7 +9,6 @@ O `VS Code <https://code.visualstudio.com/docs>`_ é editor de código-fonte des
 facilidade de personalização para desenvolver com diversas *stacks* de tecnologias. Entre tantas outras
 funcionalidades, possui suporte a diversas linguagens de programação, incluindo C/C++, integração com 
 ferramentas de versionamento de código, sistema de depuração, ferramentas para testes, entre outras.
-Para mais informações, acesse a documentação oficial .
 
 Para  instalar o *VS Code*, acesse o `site <https://code.visualstudio.com/Download>`_ e faça o 
 download do instalador para o seu sistema operacional. Além disso, é necessario instalar algumas **extensões** 
